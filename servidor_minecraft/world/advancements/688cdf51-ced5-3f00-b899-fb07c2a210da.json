@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-14 21:02:43 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-07-14 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-14 21:29:34 +0000"
     },
     "done": true
   },
@@ -260,7 +272,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-14 21:15:21 +0000",
-      "mushroom_stew": "2025-07-14 21:08:54 +0000"
+      "cooked_mutton": "2025-07-14 21:25:21 +0000",
+      "mushroom_stew": "2025-07-14 21:08:54 +0000",
+      "cooked_salmon": "2025-07-14 21:29:48 +0000"
     },
     "done": false
   },
@@ -309,6 +323,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 21:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-14 21:23:36 +0000"
     },
     "done": true
   },
@@ -384,6 +404,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-07-14 21:15:53 +0000"
@@ -399,6 +431,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-14 20:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
     },
     "done": true
   },
@@ -477,9 +515,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-07-14 20:55:48 +0000",
+      "minecraft:mountains": "2025-07-14 21:27:04 +0000",
+      "minecraft:beach": "2025-07-14 21:29:09 +0000",
       "minecraft:dark_forest": "2025-07-14 21:02:31 +0000",
       "minecraft:river": "2025-07-14 21:02:30 +0000",
-      "minecraft:wooded_hills": "2025-07-14 20:55:23 +0000"
+      "minecraft:wooded_mountains": "2025-07-14 21:28:10 +0000",
+      "minecraft:wooded_hills": "2025-07-14 20:55:23 +0000",
+      "minecraft:stone_shore": "2025-07-14 21:28:16 +0000"
     },
     "done": false
   },
@@ -603,6 +645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-14 21:02:45 +0000"
@@ -624,6 +672,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-14 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-14 21:28:03 +0000"
     },
     "done": true
   },
@@ -653,6 +707,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-14 21:25:30 +0000",
       "minecraft:zombie": "2025-07-14 21:10:38 +0000"
     },
     "done": false
@@ -768,6 +823,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-07-14 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-14 21:29:31 +0000"
     },
     "done": true
   },
