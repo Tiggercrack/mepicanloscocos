@@ -1,67 +1,134 @@
-[20:54:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:54:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:54:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:54:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:54:59] [main/INFO]: Reloading ResourceManager: Default
-[20:55:00] [Worker-Main-4/INFO]: Loaded 7 recipes
-[20:55:00] [Worker-Main-4/INFO]: Loaded 927 advancements
-[20:55:02] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:55:02] [Server thread/INFO]: Loading properties
-[20:55:02] [Server thread/INFO]: Default game type: SURVIVAL
-[20:55:02] [Server thread/INFO]: Generating keypair
-[20:55:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:55:02] [Server thread/INFO]: Using epoll channel type
-[20:55:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:55:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:55:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:55:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:55:03] [Server thread/INFO]: Preparing level "world"
-[20:55:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:05] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:08] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[20:55:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[20:55:08] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[20:55:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[20:55:08] [Worker-Main-6/INFO]: Preparing spawn area: 83%
-[20:55:08] [Worker-Main-5/INFO]: Preparing spawn area: 83%
-[20:55:09] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[20:55:09] [Worker-Main-5/INFO]: Preparing spawn area: 91%
-[20:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 91%
-[20:55:10] [Worker-Main-6/INFO]: Preparing spawn area: 91%
-[20:55:11] [Worker-Main-5/INFO]: Preparing spawn area: 91%
-[20:55:11] [Worker-Main-4/INFO]: Preparing spawn area: 93%
-[20:55:12] [Worker-Main-5/INFO]: Preparing spawn area: 94%
-[20:55:12] [Worker-Main-5/INFO]: Preparing spawn area: 98%
-[20:55:12] [Server thread/INFO]: Time elapsed: 9621 ms
-[20:55:12] [Server thread/INFO]: Done (9.714s)! For help, type "help"
-[20:55:23] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:37359] logged in with entity id 218 at (178.5, 82.0, -122.5)
-[20:55:23] [Server thread/INFO]: AlejoElWapo joined the game
-[20:57:33] [Server thread/INFO]: GOMICRACK435[/127.123.60.42:43209] logged in with entity id 463 at (194.9912481074981, 75.0, -128.8530266979503)
-[20:57:33] [Server thread/INFO]: GOMICRACK435 joined the game
-[20:58:54] [Server thread/INFO]: GOMICRACK435 has made the advancement [Stone Age]
-[20:59:07] [Server thread/INFO]: AlejoElWapo has made the advancement [Stone Age]
-[20:59:19] [Server thread/INFO]: AlejoElWapo has made the advancement [Getting an Upgrade]
-[20:59:50] [Server thread/INFO]: GOMICRACK435 has made the advancement [Getting an Upgrade]
-[21:07:06] [Server thread/INFO]: GOMICRACK435 has made the advancement [Monster Hunter]
-[21:10:38] [Server thread/INFO]: AlejoElWapo has made the advancement [Monster Hunter]
-[21:15:53] [Server thread/INFO]: AlejoElWapo has made the advancement [Acquire Hardware]
-[21:19:16] [Server thread/INFO]: AlejoElWapo has made the advancement [Suit Up]
-[21:19:20] [Server thread/INFO]: GOMICRACK435 has made the advancement [Suit Up]
-[21:22:27] [Server thread/INFO]: GOMICRACK435 has made the advancement [Acquire Hardware]
-[21:23:18] [Server thread/INFO]: GOMICRACK435 has made the advancement [Not Today, Thank You]
-[21:23:36] [Server thread/INFO]: AlejoElWapo has made the advancement [Isn't It Iron Pick]
-[21:23:39] [Server thread/INFO]: GOMICRACK435 has made the advancement [Isn't It Iron Pick]
-[21:29:36] [Server thread/INFO]: GOMICRACK435 has made the advancement [Ice Bucket Challenge]
-[21:31:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=961, y=64, z=-484} fx{x=961, y=62, z=-484}
-[21:35:09] [Server thread/INFO]: AlejoElWapo has made the advancement [Hot Stuff]
-[21:37:43] [Server thread/INFO]: AlejoElWapo has made the advancement [Sweet Dreams]
-[21:37:45] [Server thread/INFO]: GOMICRACK435 has made the advancement [Sweet Dreams]
-[21:52:53] [Server thread/WARN]: GOMICRACK435 moved too quickly! -9.685797496581017,-2.227779252040037,2.532037755005149
-[21:53:25] [Server thread/WARN]: GOMICRACK435 moved too quickly! -8.342679537010099,-1.1661092609382138,-5.566824920655563
+[22:05:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:05:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:05:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:05:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:05:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:05:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:05:14] [main/INFO]: Reloading ResourceManager: Default
+[22:05:15] [Worker-Main-4/INFO]: Loaded 7 recipes
+[22:05:16] [Worker-Main-4/INFO]: Loaded 927 advancements
+[22:05:17] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:05:17] [Server thread/INFO]: Loading properties
+[22:05:17] [Server thread/INFO]: Default game type: SURVIVAL
+[22:05:17] [Server thread/INFO]: Generating keypair
+[22:05:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:05:17] [Server thread/INFO]: Using epoll channel type
+[22:05:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:05:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:05:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:05:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:05:18] [Server thread/INFO]: Preparing level "world"
+[22:05:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:05:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:05:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:05:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:05:25] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[22:05:25] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[22:05:26] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[22:05:26] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[22:05:27] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[22:05:27] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[22:05:28] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[22:05:28] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[22:05:29] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[22:05:29] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[22:05:30] [Worker-Main-5/INFO]: Preparing spawn area: 19%
+[22:05:30] [Worker-Main-6/INFO]: Preparing spawn area: 22%
+[22:05:31] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[22:05:31] [Worker-Main-4/INFO]: Preparing spawn area: 23%
+[22:05:32] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[22:05:32] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[22:05:33] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[22:05:33] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[22:05:34] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[22:05:34] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[22:05:35] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[22:05:35] [Worker-Main-6/INFO]: Preparing spawn area: 44%
+[22:05:36] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[22:05:36] [Worker-Main-4/INFO]: Preparing spawn area: 48%
+[22:05:38] [Worker-Main-6/INFO]: Preparing spawn area: 55%
+[22:05:38] [Worker-Main-5/INFO]: Preparing spawn area: 55%
+[22:05:39] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[22:05:39] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[22:05:39] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[22:05:39] [Worker-Main-4/INFO]: Preparing spawn area: 69%
+[22:05:40] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[22:05:40] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[22:05:41] [Worker-Main-4/INFO]: Preparing spawn area: 79%
+[22:05:41] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[22:05:42] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[22:05:43] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[22:05:43] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[22:05:43] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[22:05:43] [Server thread/INFO]: Time elapsed: 20158 ms
+[22:05:43] [Server thread/INFO]: Done (25.774s)! For help, type "help"
+[22:05:44] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:57783] logged in with entity id 137 at (55.5, 63.0, 87.5)
+[22:05:44] [Server thread/INFO]: AlejoElWapo joined the game
+[22:05:58] [Server thread/INFO]: GOMICRACK435[/127.123.60.42:38395] logged in with entity id 348 at (40.5, 64.0, 106.5)
+[22:05:58] [Server thread/INFO]: GOMICRACK435 joined the game
+[22:07:20] [Server thread/INFO]: GOMICRACK435 has made the advancement [Stone Age]
+[22:08:19] [Server thread/INFO]: GOMICRACK435 has made the advancement [Getting an Upgrade]
+[22:09:00] [Server thread/INFO]: AlejoElWapo has made the advancement [Getting an Upgrade]
+[22:11:47] [Server thread/WARN]: AlejoElWapo moved too quickly! 8.983177846959784,-1.0,4.345123529154421
+[22:11:51] [Server thread/INFO]: <AlejoElWapo> asd
+[22:12:23] [Server thread/WARN]: AlejoElWapo moved too quickly! 9.376177501335519,1.2491870787446828,-3.9359404143780097
+[22:15:23] [Server thread/INFO]: AlejoElWapo has made the advancement [Ice Bucket Challenge]
+[22:16:22] [Server thread/INFO]: AlejoElWapo has made the advancement [Sweet Dreams]
+[22:16:31] [Server thread/INFO]: GOMICRACK435 has made the advancement [Sweet Dreams]
+[22:17:56] [Server thread/WARN]: AlejoElWapo moved too quickly! 9.483550236764131,1.495200877005928,3.098547845479146
+[22:18:15] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[22:18:15] [Server thread/INFO]: AlejoElWapo left the game
+[22:18:15] [Server thread/WARN]: handleDisconnection() called twice
+[22:18:20] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:41381] logged in with entity id 2911 at (474.8877205509203, 64.79673560066871, 256.23866301206533)
+[22:18:20] [Server thread/INFO]: AlejoElWapo joined the game
+[22:19:20] [Server thread/INFO]: AlejoElWapo has made the advancement [Stone Age]
+[22:21:04] [Server thread/WARN]: AlejoElWapo was kicked for floating too long!
+[22:21:04] [Server thread/INFO]: AlejoElWapo lost connection: Flying is not enabled on this server
+[22:21:04] [Server thread/INFO]: AlejoElWapo left the game
+[22:21:11] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:50265] logged in with entity id 3369 at (393.40523231875596, 69.00133597911214, 238.91800809740226)
+[22:21:11] [Server thread/INFO]: AlejoElWapo joined the game
+[22:21:17] [Server thread/WARN]: AlejoElWapo was kicked for floating too long!
+[22:21:17] [Server thread/INFO]: AlejoElWapo lost connection: Flying is not enabled on this server
+[22:21:17] [Server thread/INFO]: AlejoElWapo left the game
+[22:21:34] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:56939] logged in with entity id 3426 at (393.40523231875596, 69.00133597911214, 238.91800809740226)
+[22:21:34] [Server thread/INFO]: AlejoElWapo joined the game
+[22:21:40] [Server thread/WARN]: AlejoElWapo was kicked for floating too long!
+[22:21:40] [Server thread/INFO]: AlejoElWapo lost connection: Flying is not enabled on this server
+[22:21:40] [Server thread/INFO]: AlejoElWapo left the game
+[22:21:53] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:47875] logged in with entity id 3461 at (393.40523231875596, 69.00133597911214, 238.91800809740226)
+[22:21:53] [Server thread/INFO]: AlejoElWapo joined the game
+[22:25:21] [Server thread/INFO]: GOMICRACK435 has made the advancement [Diamonds!]
+[22:25:21] [Server thread/INFO]: GOMICRACK435 has made the advancement [Acquire Hardware]
+[22:25:27] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[22:25:27] [Server thread/INFO]: AlejoElWapo left the game
+[22:25:33] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:37439] logged in with entity id 4368 at (-6.542896155869443, 63.0, 282.3482246190847)
+[22:25:33] [Server thread/INFO]: AlejoElWapo joined the game
+[22:25:55] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[22:25:55] [Server thread/INFO]: AlejoElWapo left the game
+[22:27:49] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:34381] logged in with entity id 4574 at (-6.468053710777249, 63.0, 282.63111034976936)
+[22:27:49] [Server thread/INFO]: AlejoElWapo joined the game
+[22:28:04] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[22:28:04] [Server thread/INFO]: AlejoElWapo left the game
+[22:28:14] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:56423] logged in with entity id 4607 at (-6.468053710777249, 63.0, 282.63111034976936)
+[22:28:14] [Server thread/INFO]: AlejoElWapo joined the game
+[22:28:29] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[22:28:29] [Server thread/INFO]: AlejoElWapo left the game
+[22:28:41] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:41607] logged in with entity id 4653 at (-6.468053710777249, 63.0, 282.63111034976936)
+[22:28:41] [Server thread/INFO]: AlejoElWapo joined the game
+[22:29:06] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[22:29:06] [Server thread/INFO]: AlejoElWapo left the game
+[22:29:14] [Server thread/INFO]: GOMICRACK435 lost connection: Disconnected
+[22:29:14] [Server thread/INFO]: GOMICRACK435 left the game
+[22:30:13] [Server thread/INFO]: Stopping the server
+[22:30:13] [Server thread/INFO]: Stopping server
+[22:30:13] [Server thread/INFO]: Saving players
+[22:30:13] [Server thread/INFO]: Saving worlds
+[22:30:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:30:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:30:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:30:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
