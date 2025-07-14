@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-14 21:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-14 20:57:00 +0000"
@@ -285,6 +291,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-14 21:15:21 +0000",
       "cooked_mutton": "2025-07-14 21:25:21 +0000",
+      "cooked_beef": "2025-07-14 21:43:22 +0000",
       "mushroom_stew": "2025-07-14 21:08:54 +0000",
       "cooked_salmon": "2025-07-14 21:29:48 +0000"
     },
@@ -302,9 +309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 21:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-14 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-14 21:43:18 +0000"
     },
     "done": true
   },
@@ -552,6 +571,9 @@
     "criteria": {
       "minecraft:forest": "2025-07-14 20:55:48 +0000",
       "minecraft:mountains": "2025-07-14 21:27:04 +0000",
+      "minecraft:desert_hills": "2025-07-14 21:44:49 +0000",
+      "minecraft:desert": "2025-07-14 21:44:23 +0000",
+      "minecraft:birch_forest": "2025-07-14 21:49:02 +0000",
       "minecraft:beach": "2025-07-14 21:29:09 +0000",
       "minecraft:dark_forest": "2025-07-14 21:02:31 +0000",
       "minecraft:river": "2025-07-14 21:02:30 +0000",
@@ -714,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-14 21:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-07-14 21:02:45 +0000"
@@ -741,6 +769,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-14 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 21:42:08 +0000"
     },
     "done": true
   },
@@ -832,6 +866,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-14 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 21:42:08 +0000"
     },
     "done": true
   },

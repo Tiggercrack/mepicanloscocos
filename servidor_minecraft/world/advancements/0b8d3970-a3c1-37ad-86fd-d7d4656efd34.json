@@ -283,8 +283,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-14 21:49:51 +0000",
       "apple": "2025-07-14 21:11:33 +0000",
-      "mushroom_stew": "2025-07-14 21:08:07 +0000"
+      "mushroom_stew": "2025-07-14 21:08:07 +0000",
+      "cooked_salmon": "2025-07-14 21:40:24 +0000"
     },
     "done": false
   },
@@ -569,6 +571,9 @@
       "minecraft:cold_ocean": "2025-07-14 21:30:34 +0000",
       "minecraft:forest": "2025-07-14 04:43:16 +0000",
       "minecraft:mountains": "2025-07-14 21:27:11 +0000",
+      "minecraft:desert_hills": "2025-07-14 21:45:02 +0000",
+      "minecraft:desert": "2025-07-14 21:44:29 +0000",
+      "minecraft:birch_forest": "2025-07-14 21:48:48 +0000",
       "minecraft:beach": "2025-07-14 21:29:19 +0000",
       "minecraft:dark_forest": "2025-07-14 21:03:20 +0000",
       "minecraft:river": "2025-07-14 21:02:47 +0000",
