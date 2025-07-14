@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-14 21:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-14 20:58:25 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-14 21:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-14 21:12:18 +0000"
     },
     "done": true
   },
@@ -59,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-14 21:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-14 21:08:21 +0000"
@@ -92,6 +110,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-14 21:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-14 21:16:57 +0000"
     },
     "done": true
   },
@@ -322,7 +346,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:enderman": "2025-07-14 21:07:06 +0000"
+      "minecraft:skeleton": "2025-07-14 21:12:45 +0000",
+      "minecraft:enderman": "2025-07-14 21:07:06 +0000",
+      "minecraft:zombie": "2025-07-14 21:14:07 +0000"
     },
     "done": false
   },
@@ -334,6 +360,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-14 21:11:33 +0000",
       "mushroom_stew": "2025-07-14 21:08:07 +0000"
     },
     "done": false
@@ -356,9 +383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-14 21:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-14 20:58:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-14 21:12:46 +0000"
     },
     "done": true
   },
