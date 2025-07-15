@@ -191,6 +191,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 01:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-07-15 01:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-14 22:17:39 +0000"
@@ -390,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-07-15 01:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-14 22:16:19 +0000"
@@ -429,6 +447,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-07-14 22:18:42 +0000",
+      "minecraft:snowy_mountains": "2025-07-15 01:54:08 +0000",
       "minecraft:forest": "2025-07-14 22:05:44 +0000",
       "minecraft:snowy_tundra": "2025-07-14 22:24:02 +0000",
       "minecraft:snowy_beach": "2025-07-14 22:25:02 +0000",
@@ -453,6 +472,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-14 22:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-15 01:54:20 +0000"
     },
     "done": true
   },
