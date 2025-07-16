@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-07-16 21:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-16 01:14:34 +0000"
@@ -733,6 +739,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-16 02:17:46 +0000",
       "minecraft:spider": "2025-07-16 20:24:54 +0000",
+      "minecraft:enderman": "2025-07-16 21:24:41 +0000",
       "minecraft:zombie": "2025-07-16 20:47:56 +0000"
     },
     "done": false
@@ -1375,6 +1382,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-16 21:23:49 +0000"
     },
     "done": true
   },
