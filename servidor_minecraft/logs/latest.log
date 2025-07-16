@@ -116,3 +116,7 @@
 [20:50:10] [Server thread/INFO]: AlejoElWapo has made the advancement [Monster Hunter]
 [20:50:24] [Server thread/INFO]: Villager bfj['Villager'/3634, l='ServerLevel[world]', x=-1017.30, y=70.00, z=-406.99] died, message: 'Villager was slain by Zombie'
 [20:50:31] [Server thread/INFO]: Villager bfj['Nitwit'/3635, l='ServerLevel[world]', x=-1017.70, y=70.00, z=-407.66] died, message: 'Nitwit was slain by Zombie Villager'
+[21:13:04] [Server thread/WARN]: AlejoElWapo moved wrongly!
+[21:13:28] [Server thread/WARN]: GOMICRACK435 moved too quickly! -5.185172349282652,-0.7967356006687112,8.541997580777377
+[21:16:23] [Server thread/INFO]: Villager bfj['Nitwit'/3641, l='ServerLevel[world]', x=-987.75, y=48.05, z=-494.93] died, message: 'Nitwit was slain by Zombie'
+[21:17:29] [Server thread/INFO]: AlejoElWapo has made the advancement [Diamonds!]
