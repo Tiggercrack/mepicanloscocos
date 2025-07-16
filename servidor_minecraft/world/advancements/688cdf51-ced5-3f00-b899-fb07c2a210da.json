@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 01:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-16 01:14:30 +0000"
@@ -247,7 +253,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2025-07-16 01:17:44 +0000"
+      "cooked_beef": "2025-07-16 01:17:44 +0000",
+      "porkchop": "2025-07-16 01:54:45 +0000"
     },
     "done": false
   },
@@ -516,6 +523,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-16 01:31:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:55:53 +0000"
     },
     "done": true
   },
