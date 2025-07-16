@@ -730,6 +730,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-16 21:39:53 +0000",
       "minecraft:spider": "2025-07-16 21:18:19 +0000",
       "minecraft:cave_spider": "2025-07-16 21:29:12 +0000",
       "minecraft:zombie": "2025-07-16 20:50:10 +0000"
@@ -1021,6 +1022,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2025-07-16 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-16 21:39:51 +0000"
     },
     "done": true
   },
