@@ -113,3 +113,6 @@
 [20:49:51] [Server thread/INFO]: AlejoElWapo left the game
 [20:49:54] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:60305] logged in with entity id 3924 at (-967.5250384541303, 72.20000004768372, -457.0494991098983)
 [20:49:54] [Server thread/INFO]: AlejoElWapo joined the game
+[20:50:10] [Server thread/INFO]: AlejoElWapo has made the advancement [Monster Hunter]
+[20:50:24] [Server thread/INFO]: Villager bfj['Villager'/3634, l='ServerLevel[world]', x=-1017.30, y=70.00, z=-406.99] died, message: 'Villager was slain by Zombie'
+[20:50:31] [Server thread/INFO]: Villager bfj['Nitwit'/3635, l='ServerLevel[world]', x=-1017.70, y=70.00, z=-407.66] died, message: 'Nitwit was slain by Zombie Villager'
