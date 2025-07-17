@@ -218,3 +218,6 @@
 [03:53:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1006, y=72, z=-463} fx{x=-1006, y=72, z=-462}
 [03:53:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1006, y=73, z=-463} fx{x=-1006, y=72, z=-462}
 [03:53:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1001, y=70, z=-472} fx{x=-1001, y=68, z=-471}
+[03:54:45] [Server thread/WARN]: GOMICRACK435 moved too quickly! -2.1533290338758206,-10.588667243050025,0.036255823922203945
+[04:00:16] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[04:00:16] [Server thread/INFO]: AlejoElWapo left the game
