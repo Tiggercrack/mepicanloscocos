@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-17 00:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-07-16 01:14:30 +0000"
@@ -355,7 +361,9 @@
       "beef": "2025-07-16 20:49:07 +0000",
       "porkchop": "2025-07-16 01:54:45 +0000",
       "bread": "2025-07-16 22:04:21 +0000",
-      "rotten_flesh": "2025-07-16 23:01:32 +0000"
+      "rotten_flesh": "2025-07-16 23:01:32 +0000",
+      "cookie": "2025-07-17 00:37:51 +0000",
+      "suspicious_stew": "2025-07-17 00:32:00 +0000"
     },
     "done": false
   },
@@ -734,6 +742,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-16 20:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-17 00:39:31 +0000"
     },
     "done": true
   },
@@ -1464,6 +1478,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-16 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-17 00:39:31 +0000"
     },
     "done": true
   },
