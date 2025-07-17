@@ -398,6 +398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-17 01:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 01:31:25 +0000"
@@ -704,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-17 01:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-16 01:55:53 +0000"
@@ -931,8 +943,10 @@
       "minecraft:blaze": "2025-07-17 01:19:29 +0000",
       "minecraft:skeleton": "2025-07-16 21:39:53 +0000",
       "minecraft:hoglin": "2025-07-17 01:18:48 +0000",
+      "minecraft:magma_cube": "2025-07-17 01:25:46 +0000",
       "minecraft:spider": "2025-07-16 21:18:19 +0000",
       "minecraft:creeper": "2025-07-17 00:57:55 +0000",
+      "minecraft:wither_skeleton": "2025-07-17 01:23:19 +0000",
       "minecraft:cave_spider": "2025-07-16 21:29:12 +0000",
       "minecraft:piglin": "2025-07-17 01:16:25 +0000",
       "minecraft:enderman": "2025-07-16 23:28:08 +0000",

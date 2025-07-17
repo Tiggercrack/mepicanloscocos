@@ -44,3 +44,12 @@
 [01:19:01] [Server thread/INFO]: AlejoElWapo has made the advancement [A Terrible Fortress]
 [01:19:29] [Server thread/INFO]: AlejoElWapo has made the advancement [Into Fire]
 [01:21:29] [Server thread/INFO]: GOMICRACK435 has made the advancement [Diamonds!]
+[01:22:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=64, z=-342} fx{x=-109, y=62, z=-342}
+[01:22:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-110, y=64, z=-342} fx{x=-109, y=62, z=-342}
+[01:22:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-111, y=64, z=-342} fx{x=-109, y=62, z=-342}
+[01:22:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-111, y=64, z=-342} fx{x=-109, y=62, z=-342}
+[01:22:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-112, y=64, z=-343} fx{x=-112, y=62, z=-343}
+[01:24:23] [Server thread/WARN]: GOMICRACK435 moved too quickly! -0.00745143885313837,0.880039138572954,10.1894622469718
+[01:24:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-129, y=64, z=-336} fx{x=-129, y=62, z=-336}
+[01:24:51] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-129, y=64, z=-336} fx{x=-129, y=62, z=-336}
+[01:26:41] [Server thread/INFO]: GOMICRACK435 has made the advancement [Into Fire]
