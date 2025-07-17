@@ -208,3 +208,13 @@
 [03:40:44] [Server thread/INFO]: <GOMICRACK435> asd
 [03:40:44] [Server thread/INFO]: <GOMICRACK435> wwwwwwwwwwww
 [03:43:56] [Server thread/INFO]: Villager bfj['Librarian'/48163, l='ServerLevel[world]', x=-1010.48, y=52.02, z=-459.35] died, message: 'Librarian drowned'
+[03:44:58] [Server thread/INFO]: Villager bfj['Librarian'/56369, l='ServerLevel[world]', x=-996.34, y=52.00, z=-454.33] died, message: 'Librarian went up in flames'
+[03:45:49] [Server thread/INFO]: Villager bfj['Villager'/66637, l='ServerLevel[world]', x=-994.48, y=53.18, z=-454.95] died, message: 'Villager burned to death'
+[03:51:23] [Server thread/WARN]: GOMICRACK435 moved too quickly! 7.037637697526975,-2.252203340253729,-7.10643181407147
+[03:52:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1002, y=71, z=-463} fx{x=-1003, y=70, z=-463}
+[03:53:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1000, y=70, z=-463} fx{x=-999, y=70, z=-463}
+[03:53:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1000, y=70, z=-463} fx{x=-999, y=70, z=-463}
+[03:53:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1000, y=71, z=-466} fx{x=-999, y=71, z=-465}
+[03:53:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1006, y=72, z=-463} fx{x=-1006, y=72, z=-462}
+[03:53:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1006, y=73, z=-463} fx{x=-1006, y=72, z=-462}
+[03:53:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1001, y=70, z=-472} fx{x=-1001, y=68, z=-471}
