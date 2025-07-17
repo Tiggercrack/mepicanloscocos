@@ -130,3 +130,38 @@
 [03:09:20] [Server thread/INFO]: AlejoElWapo joined the game
 [03:23:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=36, y=16, z=-54} fx{x=37, y=16, z=-54}
 [03:23:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=36, y=16, z=-54} fx{x=37, y=16, z=-54}
+[03:25:51] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:25:51] [Server thread/INFO]: AlejoElWapo left the game
+[03:26:01] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:36241] logged in with entity id 65091 at (-997.0376195572863, 67.79673560066871, -458.71630455751017)
+[03:26:01] [Server thread/INFO]: AlejoElWapo joined the game
+[03:26:17] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:26:17] [Server thread/INFO]: AlejoElWapo left the game
+[03:26:27] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:43625] logged in with entity id 65129 at (-997.0376195572863, 67.79673560066871, -458.71630455751017)
+[03:26:27] [Server thread/INFO]: AlejoElWapo joined the game
+[03:26:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Lectern'/65126, l='ServerLevel[world]', x=-1006.88, y=52.04, z=-457.86]
+[03:26:36] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[03:26:36] [Server thread/INFO]: AlejoElWapo left the game
+[03:26:46] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:38033] logged in with entity id 65158 at (-997.0376195572863, 67.79673560066871, -458.71630455751017)
+[03:26:46] [Server thread/INFO]: AlejoElWapo joined the game
+[03:27:02] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:27:02] [Server thread/INFO]: AlejoElWapo left the game
+[03:27:09] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:48307] logged in with entity id 65205 at (-997.0376195572863, 67.0, -458.71630455751017)
+[03:27:09] [Server thread/INFO]: AlejoElWapo joined the game
+[03:27:24] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:27:24] [Server thread/INFO]: AlejoElWapo left the game
+[03:27:56] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:44387] logged in with entity id 65290 at (-997.0376195572863, 67.0, -458.71630455751017)
+[03:27:56] [Server thread/INFO]: AlejoElWapo joined the game
+[03:28:11] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:28:11] [Server thread/INFO]: AlejoElWapo left the game
+[03:28:18] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:41527] logged in with entity id 65331 at (-997.0376195572863, 67.0, -458.71630455751017)
+[03:28:18] [Server thread/INFO]: AlejoElWapo joined the game
+[03:28:33] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:28:33] [Server thread/INFO]: AlejoElWapo left the game
+[03:28:42] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:39577] logged in with entity id 65374 at (-997.0376195572863, 67.0, -458.71630455751017)
+[03:28:42] [Server thread/INFO]: AlejoElWapo joined the game
+[03:30:48] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[03:30:48] [Server thread/INFO]: AlejoElWapo left the game
+[03:32:57] [Server thread/INFO]: AlejoElWapo[/127.14.28.112:45697] logged in with entity id 65870 at (-1007.4636663233314, 52.0, -457.57056972335045)
+[03:32:57] [Server thread/INFO]: AlejoElWapo joined the game
+[03:33:12] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[03:33:12] [Server thread/INFO]: AlejoElWapo left the game
