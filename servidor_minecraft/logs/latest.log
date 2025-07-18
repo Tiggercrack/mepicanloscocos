@@ -57,3 +57,5 @@
 [01:26:07] [Server thread/INFO]: AlejoElWapo left the game
 [01:26:18] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:55731] logged in with entity id 9454 at (-1002.4845181062082, 52.0, -457.64375141538176)
 [01:26:18] [Server thread/INFO]: AlejoElWapo joined the game
+[01:31:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-983, y=69, z=-463} fx{x=-983, y=67, z=-464}
+[01:31:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-983, y=69, z=-465} fx{x=-983, y=68, z=-467}
