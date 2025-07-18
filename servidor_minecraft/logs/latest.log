@@ -50,3 +50,6 @@
 [00:24:17] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:54513] logged in with entity id 1141 at (-961.89028165397, 86.0, -444.5751173580173)
 [00:24:17] [Server thread/INFO]: AlejoElWapo joined the game
 [00:27:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1003, y=68, z=-484} fx{x=-1003, y=67, z=-483}
+[00:28:57] [Server thread/WARN]: AlejoElWapo moved too quickly! 1.3502730612248115,0.3693736602695026,10.208506918744831
+[00:32:04] [Server thread/WARN]: GOMICRACK435 moved too quickly! -0.09199302214085492,0.604424101326714,-10.281629435881825
+[00:36:47] [Server thread/INFO]: GOMICRACK435 has made the advancement [Hot Stuff]
