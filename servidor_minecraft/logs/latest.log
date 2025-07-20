@@ -44,3 +44,4 @@
 [04:15:05] [Server thread/INFO]: <AlejoElWapo> asd
 [04:21:10] [Server thread/INFO]: AlejoElWapo has made the advancement [Hidden in the Depths]
 [04:28:12] [Server thread/WARN]: GOMICRACK435 moved too quickly! -1.5885457087057375,2.252203340253729,-9.729250195106943
+[04:46:44] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-41, y=16, z=-102} fx{x=-41, y=16, z=-101}
