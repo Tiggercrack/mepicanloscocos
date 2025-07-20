@@ -1,83 +1,33 @@
-[00:17:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:17:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:17:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:17:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:17:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:17:23] [main/INFO]: Reloading ResourceManager: Default
-[00:17:24] [Worker-Main-4/INFO]: Loaded 7 recipes
-[00:17:24] [Worker-Main-4/INFO]: Loaded 927 advancements
-[00:17:26] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:17:26] [Server thread/INFO]: Loading properties
-[00:17:26] [Server thread/INFO]: Default game type: SURVIVAL
-[00:17:26] [Server thread/INFO]: Generating keypair
-[00:17:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:17:26] [Server thread/INFO]: Using epoll channel type
-[00:17:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:17:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:17:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:17:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:17:27] [Server thread/INFO]: Preparing level "world"
-[00:17:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:17:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:29] [Server thread/INFO]: Preparing spawn area: 0%
-[00:17:29] [Server thread/INFO]: Time elapsed: 2432 ms
-[00:17:29] [Server thread/INFO]: Done (2.554s)! For help, type "help"
-[00:17:54] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:53119] logged in with entity id 45 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:17:54] [Server thread/INFO]: AlejoElWapo joined the game
-[00:17:59] [Server thread/INFO]: GOMICRACK435[/127.123.60.42:59395] logged in with entity id 351 at (-1009.8698200116578, 52.0, -457.0781024712871)
-[00:17:59] [Server thread/INFO]: GOMICRACK435 joined the game
-[00:18:24] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[00:18:24] [Server thread/INFO]: AlejoElWapo left the game
-[00:18:57] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:45921] logged in with entity id 464 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:18:57] [Server thread/INFO]: AlejoElWapo joined the game
-[00:19:12] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[00:19:12] [Server thread/INFO]: AlejoElWapo left the game
-[00:19:35] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:42185] logged in with entity id 540 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:19:35] [Server thread/INFO]: AlejoElWapo joined the game
-[00:19:50] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[00:19:50] [Server thread/INFO]: AlejoElWapo left the game
-[00:20:10] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:47059] logged in with entity id 622 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:20:10] [Server thread/INFO]: AlejoElWapo joined the game
-[00:20:26] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[00:20:26] [Server thread/INFO]: AlejoElWapo left the game
-[00:23:40] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:43333] logged in with entity id 1082 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:23:40] [Server thread/INFO]: AlejoElWapo joined the game
-[00:23:55] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[00:23:55] [Server thread/INFO]: AlejoElWapo left the game
-[00:24:17] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:54513] logged in with entity id 1141 at (-961.89028165397, 86.0, -444.5751173580173)
-[00:24:17] [Server thread/INFO]: AlejoElWapo joined the game
-[00:27:10] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1003, y=68, z=-484} fx{x=-1003, y=67, z=-483}
-[00:28:57] [Server thread/WARN]: AlejoElWapo moved too quickly! 1.3502730612248115,0.3693736602695026,10.208506918744831
-[00:32:04] [Server thread/WARN]: GOMICRACK435 moved too quickly! -0.09199302214085492,0.604424101326714,-10.281629435881825
-[00:36:47] [Server thread/INFO]: GOMICRACK435 has made the advancement [Hot Stuff]
-[01:26:07] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:26:07] [Server thread/INFO]: AlejoElWapo left the game
-[01:26:18] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:55731] logged in with entity id 9454 at (-1002.4845181062082, 52.0, -457.64375141538176)
-[01:26:18] [Server thread/INFO]: AlejoElWapo joined the game
-[01:31:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-983, y=69, z=-463} fx{x=-983, y=67, z=-464}
-[01:31:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-983, y=69, z=-465} fx{x=-983, y=68, z=-467}
-[01:41:19] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:41:19] [Server thread/INFO]: AlejoElWapo left the game
-[01:41:46] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:42685] logged in with entity id 11070 at (-1002.5400639749555, 52.0, -457.69999998807907)
-[01:41:46] [Server thread/INFO]: AlejoElWapo joined the game
-[01:42:01] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:42:01] [Server thread/INFO]: AlejoElWapo left the game
-[01:42:32] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:55523] logged in with entity id 11143 at (-1002.5400639749555, 52.0, -457.69999998807907)
-[01:42:32] [Server thread/INFO]: AlejoElWapo joined the game
-[01:42:47] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:42:47] [Server thread/INFO]: AlejoElWapo left the game
-[01:46:41] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:33679] logged in with entity id 11589 at (-1002.5400639749555, 52.0, -457.69999998807907)
-[01:46:41] [Server thread/INFO]: AlejoElWapo joined the game
-[01:46:56] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:46:56] [Server thread/INFO]: AlejoElWapo left the game
-[01:47:09] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:47109] logged in with entity id 11655 at (-1002.5400639749555, 52.0, -457.69999998807907)
-[01:47:09] [Server thread/INFO]: AlejoElWapo joined the game
-[01:47:24] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:47:24] [Server thread/INFO]: AlejoElWapo left the game
-[01:47:56] [Server thread/INFO]: AlejoElWapo[/127.134.152.204:42717] logged in with entity id 11743 at (-1002.5400639749555, 52.0, -457.69999998807907)
-[01:47:56] [Server thread/INFO]: AlejoElWapo joined the game
-[01:48:11] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
-[01:48:11] [Server thread/INFO]: AlejoElWapo left the game
+[00:53:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:53:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:53:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:53:28] [main/INFO]: Reloading ResourceManager: Default
+[00:53:29] [Worker-Main-5/INFO]: Loaded 7 recipes
+[00:53:30] [Worker-Main-5/INFO]: Loaded 927 advancements
+[00:53:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[00:53:31] [Server thread/INFO]: Loading properties
+[00:53:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:53:31] [Server thread/INFO]: Generating keypair
+[00:53:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:53:32] [Server thread/INFO]: Using epoll channel type
+[00:53:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:53:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:53:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:53:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:53:32] [Server thread/INFO]: Preparing level "world"
+[00:53:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:34] [Server thread/INFO]: Preparing spawn area: 0%
+[00:53:35] [Server thread/INFO]: Time elapsed: 2408 ms
+[00:53:35] [Server thread/INFO]: Done (2.516s)! For help, type "help"
+[00:53:47] [Server thread/INFO]: GOMICRACK435[/127.123.60.42:53015] logged in with entity id 47 at (-968.3000000119209, 70.0, -456.908852896811)
+[00:53:47] [Server thread/INFO]: GOMICRACK435 joined the game
+[00:53:50] [Server thread/INFO]: AlejoElWapo[/127.30.50.18:35431] logged in with entity id 231 at (-968.1252246197286, 70.0, -457.5892766406304)
+[00:53:50] [Server thread/INFO]: AlejoElWapo joined the game
+[00:54:41] [Server thread/INFO]: <AlejoElWapo> llame perro hpta
+[01:00:04] [Server thread/INFO]: Villager bfj['Villager'/55, l='ServerLevel[world]', x=-985.94, y=61.90, z=-475.62] died, message: 'Villager was slain by Zombie'
