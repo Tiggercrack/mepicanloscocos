@@ -149,3 +149,10 @@
 [02:28:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25124, l='ServerLevel[world]', x=-986.78, y=67.45, z=-450.71]
 [02:28:40] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25124, l='ServerLevel[world]', x=-986.78, y=67.45, z=-450.71]
 [02:34:58] [Server thread/INFO]: AlejoElWapo has made the advancement [Enchanter]
+[02:35:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26600, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:35:59] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26600, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:36:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26606, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:36:00] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26606, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:36:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26620, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:36:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26620, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
+[02:39:35] [Server thread/WARN]: GOMICRACK435 moved too quickly! 3.705395967142749,-7.319946279505828,-6.172986871083992
