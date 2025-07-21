@@ -166,3 +166,5 @@
 [03:26:12] [Server thread/INFO]: AlejoElWapo has completed the challenge [Return to Sender]
 [03:32:25] [Server thread/INFO]: Villager bfj['Armorer'/55, l='ServerLevel[world]', x=-981.30, y=66.00, z=-449.50] died, message: 'Armorer went up in flames'
 [03:33:59] [Server thread/INFO]: Villager bfj['Villager'/20789, l='ServerLevel[world]', x=-994.70, y=49.00, z=-454.70] died, message: 'Villager went up in flames'
+[03:38:58] [Server thread/INFO]: Villager bfj['Villager'/39855, l='ServerLevel[world]', x=-994.70, y=54.00, z=-455.69] died, message: 'Villager suffocated in a wall'
+[03:40:34] [Server thread/INFO]: Villager bfj['Villager'/45065, l='ServerLevel[world]', x=-995.15, y=53.00, z=-443.21] died, message: 'Villager went up in flames'
