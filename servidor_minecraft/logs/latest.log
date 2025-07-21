@@ -156,3 +156,7 @@
 [02:36:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26620, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
 [02:36:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/26620, l='ServerLevel[world]', x=-991.63, y=68.26, z=-455.27]
 [02:39:35] [Server thread/WARN]: GOMICRACK435 moved too quickly! 3.705395967142749,-7.319946279505828,-6.172986871083992
+[02:56:57] [Server thread/WARN]: GOMICRACK435 moved too quickly! -0.09839322019604424,10.465000184059136,0.0
+[03:03:46] [Server thread/INFO]: Villager bfj['Villager'/31564, l='ServerLevel[world]', x=-998.14, y=52.00, z=-453.62] died, message: 'Villager went up in flames'
+[03:03:55] [Server thread/INFO]: Villager bfj['Villager'/24180, l='ServerLevel[world]', x=-998.57, y=52.42, z=-453.24] died, message: 'Villager burned to death'
+[03:04:14] [Server thread/INFO]: Villager bfj['Villager'/99, l='ServerLevel[world]', x=-995.51, y=53.05, z=-454.78] died, message: 'Villager burned to death'
