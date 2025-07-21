@@ -82,3 +82,12 @@
 [01:27:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2370, y=47, z=-858} fx{x=-2370, y=47, z=-859}
 [01:27:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2370, y=47, z=-859} fx{x=-2370, y=46, z=-858}
 [01:27:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2370, y=48, z=-857} fx{x=-2370, y=47, z=-859}
+[01:43:44] [Server thread/INFO]: AlejoElWapo lost connection: Timed out
+[01:43:44] [Server thread/INFO]: AlejoElWapo left the game
+[01:44:08] [Server thread/INFO]: AlejoElWapo[/127.30.50.18:58937] logged in with entity id 16786 at (-978.6999999880791, 68.0, -448.4470996541288)
+[01:44:08] [Server thread/INFO]: AlejoElWapo joined the game
+[01:44:21] [Server thread/INFO]: AlejoElWapo lost connection: Disconnected
+[01:44:21] [Server thread/INFO]: AlejoElWapo left the game
+[01:44:28] [Server thread/WARN]: GOMICRACK435 moved too quickly! -0.13840930125547857,-13.739436167490794,0.12405243340037941
+[01:45:04] [Server thread/INFO]: AlejoElWapo[/127.30.50.18:35891] logged in with entity id 16966 at (-978.6999999880791, 68.0, -448.4470996541288)
+[01:45:04] [Server thread/INFO]: AlejoElWapo joined the game
