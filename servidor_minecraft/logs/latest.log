@@ -75,3 +75,4 @@
 [01:02:16] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3821, l='ServerLevel[world]', x=-991.51, y=68.26, z=-451.72]
 [01:02:26] [Server thread/INFO]: <AlejoElWapo> asd
 [01:04:14] [Server thread/WARN]: Fetching packet for removed entity bcv['Chest'/4282, l='ServerLevel[world]', x=-963.15, y=60.35, z=-547.56]
+[01:24:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-2381, y=34, z=-898} fx{x=-2381, y=36, z=-898}
