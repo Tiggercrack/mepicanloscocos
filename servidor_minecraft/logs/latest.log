@@ -164,3 +164,5 @@
 [03:19:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-7, y=14, z=-22} fx{x=-92, y=55, z=-56}
 [03:19:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-92, y=56, z=-56} fx{x=-93, y=55, z=-56}
 [03:26:12] [Server thread/INFO]: AlejoElWapo has completed the challenge [Return to Sender]
+[03:32:25] [Server thread/INFO]: Villager bfj['Armorer'/55, l='ServerLevel[world]', x=-981.30, y=66.00, z=-449.50] died, message: 'Armorer went up in flames'
+[03:33:59] [Server thread/INFO]: Villager bfj['Villager'/20789, l='ServerLevel[world]', x=-994.70, y=49.00, z=-454.70] died, message: 'Villager went up in flames'
