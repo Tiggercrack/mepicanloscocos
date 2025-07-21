@@ -160,3 +160,4 @@
 [03:03:46] [Server thread/INFO]: Villager bfj['Villager'/31564, l='ServerLevel[world]', x=-998.14, y=52.00, z=-453.62] died, message: 'Villager went up in flames'
 [03:03:55] [Server thread/INFO]: Villager bfj['Villager'/24180, l='ServerLevel[world]', x=-998.57, y=52.42, z=-453.24] died, message: 'Villager burned to death'
 [03:04:14] [Server thread/INFO]: Villager bfj['Villager'/99, l='ServerLevel[world]', x=-995.51, y=53.05, z=-454.78] died, message: 'Villager burned to death'
+[03:15:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=99, y=15, z=-300} fx{x=100, y=14, z=-300}
